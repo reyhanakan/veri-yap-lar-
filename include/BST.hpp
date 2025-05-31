@@ -1,11 +1,4 @@
-/**
-* @file BST.hpp
-* @description ağaç tanımı
-* @course 1. Öğretim B grubu
-* @assignment 2. Ödev
-* @date 16.12.24
-* @author Didem Reyhan AKAN b231210002@sakarya.edu.tr
-*/
+
 #ifndef BST_HPP
 #define BST_HPP
 #include <iostream>
