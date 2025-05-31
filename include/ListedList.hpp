@@ -1,11 +1,4 @@
-/**
-* @file ListedList.hpp
-* @description bağlı liste tanımı
-* @course 1. Öğretim B grubu
-* @assignment 2. Ödev
-* @date 16.12.24
-* @author Didem Reyhan AKAN b231210002@sakarya.edu.tr
-*/
+
 #ifndef LISTEDLIST_HPP
 #define LISTEDLIST_HPP
 
