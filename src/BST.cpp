@@ -1,11 +1,4 @@
-/**
-* @file BST.cpp
-* @description ağaç ile ilgili işlemlerin yapıldığı kısım
-* @course 1. Öğretim B grubu
-* @assignment 2. Ödev
-* @date 16.12.24
-* @author Didem Reyhan AKAN b231210002@sakarya.edu.tr
-*/
+
 #include "BST.hpp"
 #include <cmath>
 #include <cstring>  
